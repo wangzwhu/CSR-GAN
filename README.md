@@ -40,12 +40,11 @@ If you also use the [SALR datasets](https://pan.baidu.com/s/1boKBvrh), please ki
 
 Please also kindly cite:
 ```
-@article{tensorlayer2017,
-author = {Dong, Hao and Supratak, Akara and Mai, Luo and Liu, Fangde and Oehmichen, Axel and Yu, Simiao and Guo, Yike},
-journal = {ACM Multimedia},
-title = {{TensorLayer: A Versatile Library for Efficient Deep Learning Development}},
-url = {http://tensorlayer.org},
-year = {2017}
+@article{ledig2017photo,
+  title={Photo-realistic single image super-resolution using a generative adversarial network},
+  author={Ledig, Christian and Theis, Lucas and Husz{\'a}r, Ferenc and Caballero, Jose and Cunningham, Andrew and Acosta, Alejandro and Aitken, Andrew and Tejani, Alykhan and Totz, Johannes and Wang, Zehan and others},
+  journal={arXiv preprint},
+  year={2017}
 }
 ```
 This code helps us very much. Link: [https://github.com/tensorlayer/srgan](https://github.com/tensorlayer/srgan)
